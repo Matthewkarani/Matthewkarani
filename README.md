@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matthewkarani
-- 👀 I’m interested in mobile development in Java and Dart...
-- 🌱 I’m currently learning how to develop mobile applications using the flutter framework.
-- 🤝 I’m looking to collaborate on flutter project development.
+- 👀 I’m interested in software development and data science. You can call me a future full stack developer 😁 .....
+- 🌱 I’m currently learning how to work with data to generate insights to solve real world problems....
+- 🤝 I’m looking to collaborate on world changing solutions.
 - 📫 You can reach me on mkmkarani@gmail.com
 <!---
 Matthewkarani/Matthewkarani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
